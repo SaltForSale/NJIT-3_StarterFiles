@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Toy Story",
+            "iscore": 8.3,
+            "rating": "G",
+            "runtime": 81,
+            "released": [1995, 11, 22],
+            "country": "USA",
+            "posters": ["img/toyStory1.jpg", "img/toyStory2.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.disneyplus.com/movies/toy-story/1Ye1nzUgtF7d",
+            "likes": 1000,
+            "dislikes": 99,
+            "posterindex": 0
+      },
+      {
+            "title": "Toy Story 2",
+            "iscore": 7.9,
+            "rating": "G",
+            "runtime": 92,
+            "released": [1999, 11, 24],
+            "country": "USA",
+            "posters": ["img/toyStory21.jpg", "img/toyStory22.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0120363/",
+            "website": "https://www.disneyplus.com/movies/toy-story-2/6eunXQzaXkGr",
+            "likes": 1000,
+            "dislikes": 99,
+            "posterindex": 0
+      },
+      {
+            "title": "Toy Story 3",
+            "iscore": 8.3,
+            "rating": "G",
+            "runtime": 103,
+            "released": [2010, 6, 18],
+            "country": "USA",
+            "posters": ["img/toyStory31.jpg", "img/toyStory32.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0435761/",
+            "website": "https://www.disneyplus.com/movies/toy-story-3/5i3MkHrmohAt",
+            "likes": 1000,
+            "dislikes": 99,
+            "posterindex": 0
       }
 ]
